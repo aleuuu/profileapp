@@ -16,7 +16,7 @@ function App() {
     <Router>
           <video
             autoPlay
-            Loop
+            loop
             muted>
               <source src={Back}/>
           </video>
