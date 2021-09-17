@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/profileapp/static/css/main.a954ea07.chunk.css",
+    "main.js": "/profileapp/static/js/main.16e6d423.chunk.js",
+    "main.js.map": "/profileapp/static/js/main.16e6d423.chunk.js.map",
+    "runtime-main.js": "/profileapp/static/js/runtime-main.e4313c2e.js",
+    "runtime-main.js.map": "/profileapp/static/js/runtime-main.e4313c2e.js.map",
+    "static/js/2.e07a8112.chunk.js": "/profileapp/static/js/2.e07a8112.chunk.js",
+    "static/js/2.e07a8112.chunk.js.map": "/profileapp/static/js/2.e07a8112.chunk.js.map",
+    "static/js/3.e6320f62.chunk.js": "/profileapp/static/js/3.e6320f62.chunk.js",
+    "static/js/3.e6320f62.chunk.js.map": "/profileapp/static/js/3.e6320f62.chunk.js.map",
+    "index.html": "/profileapp/index.html",
+    "static/css/main.a954ea07.chunk.css.map": "/profileapp/static/css/main.a954ea07.chunk.css.map",
+    "static/js/2.e07a8112.chunk.js.LICENSE.txt": "/profileapp/static/js/2.e07a8112.chunk.js.LICENSE.txt",
+    "static/media/nature.69cebf2e.mp4": "/profileapp/static/media/nature.69cebf2e.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4313c2e.js",
+    "static/js/2.e07a8112.chunk.js",
+    "static/css/main.a954ea07.chunk.css",
+    "static/js/main.16e6d423.chunk.js"
+  ]
+}
