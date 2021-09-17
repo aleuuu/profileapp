@@ -11,3 +11,80 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header{
+  padding: 40px 90px;
+  display: flex;
+  justify-content: space-between;
+  color: rgb(233, 233, 233);
+}
+.header ul{
+  display: flex;
+  margin: 0;
+  padding: 0;
+  width: 30%;
+  justify-content: space-around;
+}
+.header h2{
+  margin: 0;
+}
+.header li{
+  display: inline-block;
+  padding: 5px 0;
+}
+.container{
+  padding: 190px 90px 0;
+}
+.container h1{
+  font-size: 55px;
+  color: rgb(233, 233, 233);
+}
+.container p{
+  width: 30%;
+  color: rgb(255, 255, 255);
+  font-weight: 100;
+}
+.container button{
+  width: 170px;
+  padding: 10px 15px;
+  margin: 30px 0;
+  font-weight: bold;
+  border: 1px solid rgb(233, 233, 233);
+  border-radius: 5px;
+  color: rgb(233, 233, 233);
+  box-sizing: border-box;
+  background: none;
+}
+video{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 50%;
+  top: 50%;
+  object-fit: cover;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+}
+.first-page{
+  background: rgb(241, 241, 241);
+  height: 100vh;
+  width: 100vw;
+
+}
+.back{
+  /* background: rgb(87, 197, 111); */
+  padding: 10px;
+  margin: 30px;
+  border-radius: 50%;
+  box-shadow: -5px -5px 10px 0 #161b1d23, 5px 5px 10px 0 #fafbff;
+}
+a{
+  color: #fff;
+}
+.contaaner{
+  padding: 20px 100px;
+}
+.contaaner h2{
+  font-size: 35px;
+  color: rgb(71, 71, 71);
+}
